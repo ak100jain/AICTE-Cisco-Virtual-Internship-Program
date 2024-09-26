@@ -1,12 +1,14 @@
 # AICTE Cisco Virtual Internship - Cloud Security
 
 ## Overview
+[View my Cloud Security Internship Certificate](./Internship/Cisco virtual internship cloud security.pdf)
 
 This repository contains the project and resources related to my participation in the **AICTE Cisco Virtual Internship**, where I successfully completed the **Cisco Cloud Security** course. The course provided hands-on experience and detailed knowledge about cloud security principles and practices.
 
 ## Course Description
 
 The **Cisco Cloud Security** course covered six key modules, each focusing on different aspects of cloud security, from architecture to operational security:
+[View my Cloud Security Internship Certificate](path_to_certificate.pdf)
 
 1. **Introduction to Cloud**
    - Cloud Architecture
